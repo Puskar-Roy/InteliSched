@@ -7,3 +7,4 @@ To Solve This Problem We Use CSP(Constraint Satisfaction Problem) To Genarate A 
 From Using Genetic Algorithm We Find The Best Schedule.
 
 For Making GUI We Use A python Library Called Custom Tkinter And In Backend We Use Google Firebase (Firebase Authentication And Cloud Firestore)
+(GUI-Main-Beta Is The Latest Version,And Here we don't provide apy key of our actual firebse cloud fire store due to privacy reasons)
